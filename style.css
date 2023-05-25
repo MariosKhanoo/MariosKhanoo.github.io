@@ -1,8 +1,22 @@
-<style>h1 {
-            font-size: 3em;
+<style> #title{
+            color: blue;
+            border: 10px solid white;
+            margin: 10px;
+            text-align: center;
+            font-size: 1.5em;
             font-family: cursive;
             font-style: italic;
-            border:6px ridge ;
-            margin: 100px;
+            padding: 5px;
+            width: 350px;
+            position: absolute;
+            top:3px;
+            left: 150px;
+            z-index:2;
         }
+        #image {
+            position: absolute;
+            top: 64px;
+            left: 49px;
+            z-index: 1;
+            }
 </style>
