@@ -1,4 +1,4 @@
-<style> #title {
+    <style> #title {
                 text-align: center;
                 background: rgb(63, 69, 69);
                 border: 2px solid black;
@@ -30,7 +30,7 @@
                 left: 1.5px;
                 z-index: -1;
             }
-            #Admition {
+            #admission {
                 font-size: 30px;
                 text-align: center;
                 background: white;
@@ -69,4 +69,17 @@
                 top: 390px;
                 left: 453px;
             }
-</style>
+            #final-box{
+                font-size: 10px;
+                text-align: center;
+                background: lightblue;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 0px;
+                width: 719px;
+                height: 60px;
+                position: absolute;
+                top: 610px;
+                left: 0px;
+            }
+    </style>
