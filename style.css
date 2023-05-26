@@ -1,22 +1,72 @@
-<style> #title{
-            color: blue;
-            border: 10px solid white;
-            margin: 10px;
-            text-align: center;
-            font-size: 1.5em;
-            font-family: cursive;
-            font-style: italic;
-            padding: 5px;
-            width: 350px;
-            position: absolute;
-            top:3px;
-            left: 150px;
-            z-index:2;
-        }
-        #image {
-            position: absolute;
-            top: 64px;
-            left: 49px;
-            z-index: 1;
+<style> #title {
+                text-align: center;
+                background: rgb(63, 69, 69);
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 10px;
+                width: 699px;
+                position: absolute;
+                top: 0px;
+                left: 0px;
+            }
+            #school-name {
+                font-size: 10px;
+                text-align: center;
+                background: lightblue;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 0px;
+                width: 719px;
+                position: absolute;
+                top: 100px;
+                left: 0px;
+            }
+            body {
+                background-color: gray;
+            }
+            #image {
+                position: absolute;
+                top: 125px;
+                left: 1.5px;
+                z-index: -1;
+            }
+            #Admition {
+                font-size: 30px;
+                text-align: center;
+                background: white;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 20px;
+                width: 148px;
+                height: 117px;
+                position: absolute;
+                top: 390px;
+                left: 60px;
+            }
+            #Our-School {
+                font-size: 30px;
+                text-align: center;
+                background: white;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 25px;
+                width: 150px;
+                height: 80px;
+                position: absolute;
+                top: 390px;
+                left: 250px;
+            }
+            #clubs-and-sports {
+                font-size: 28px;
+                text-align: center;
+                background: white;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 40px;
+                width: 150px;
+                height: 82px;
+                position: absolute;
+                top: 390px;
+                left: 453px;
             }
 </style>
