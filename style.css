@@ -1,4 +1,5 @@
-    <style> #title {
+<meta name="viewport" content="width=device-width">
+<style> #title {
                 text-align: center;
                 background: rgb(63, 69, 69);
                 border: 2px solid black;
@@ -38,7 +39,7 @@
                 font-family: cursive;
                 padding: 20px;
                 width: 148px;
-                height: 117px;
+                height: 157px;
                 position: absolute;
                 top: 390px;
                 left: 60px;
@@ -51,7 +52,6 @@
                 font-family: cursive;
                 padding: 25px;
                 width: 150px;
-                height: 80px;
                 position: absolute;
                 top: 390px;
                 left: 250px;
@@ -64,7 +64,6 @@
                 font-family: cursive;
                 padding: 40px;
                 width: 130px;
-                height: 77px;
                 position: absolute;
                 top: 390px;
                 left: 452px;
@@ -79,7 +78,7 @@
                 width: 719px;
                 height: 50px;
                 position: absolute;
-                top: 590px;
+                top: 610px;
                 left: 0px;
             }
     </style>
