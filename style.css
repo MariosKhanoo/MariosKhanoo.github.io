@@ -63,23 +63,23 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 40px;
-                width: 150px;
-                height: 82px;
+                width: 130px;
+                height: 77px;
                 position: absolute;
                 top: 390px;
-                left: 453px;
+                left: 452px;
             }
-            #final-box{
-                font-size: 10px;
+            #final-lightblue-box {
+                font-size: 20px;
                 text-align: center;
                 background: lightblue;
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 0px;
                 width: 719px;
-                height: 60px;
+                height: 50px;
                 position: absolute;
-                top: 610px;
+                top: 590px;
                 left: 0px;
             }
     </style>
