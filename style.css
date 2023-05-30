@@ -72,6 +72,58 @@
                 top: 390px;
                 left: 452px;
             }
+            #team-history {
+                font-size: 30px;
+                text-align: center;
+                background: white;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 20px;
+                width: 148px;
+                height: 127px;
+                position: absolute;
+                top: 390px;
+                left: 60px;
+            }
+            #sign-up {
+                font-size: 30px;
+                text-align: center;
+                background: white;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 25px;
+                width: 150px;
+                height: 90px;
+                position: absolute;
+                top: 390px;
+                left: 250px;
+            }
+            #admin {
+                font-size: 28px;
+                text-align: center;
+                background: white;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 40px;
+                width: 130px;
+                height: 87px;
+                position: absolute;
+                top: 390px;
+                left: 452px;
+            }
+            #last-lightblue-box {
+                font-size: 20px;
+                text-align: center;
+                background: lightblue;
+                border: 2px solid black;
+                font-family: cursive;
+                padding: 0px;
+                width: 719px;
+                height: 50px;
+                position: absolute;
+                top: 600px;
+                left: 0px;
+            }
             #final-lightblue-box {
                 font-size: 20px;
                 text-align: center;
