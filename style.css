@@ -4,7 +4,7 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 10px;
-                width: 699px;
+                width: 100%;
                 position: absolute;
                 top: 0px;
                 left: 0px;
@@ -16,17 +16,17 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 0px;
-                width: 719px;
+                width: 100%;
                 position: absolute;
                 top: 100px;
                 left: 0px;
             }
             body {
                 background-color: gray;
-                width: 100%;
             }
             #image {
                 position: absolute;
+                width: 100%;
                 top: 125px;
                 left: 1.5px;
                 z-index: -1;
@@ -38,7 +38,7 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 20px;
-                width: 148px;
+                width: 150px;
                 height: 157px;
                 position: absolute;
                 top: 390px;
@@ -114,7 +114,7 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 0px;
-                width: 719px;
+                width: 100%;
                 height: 50px;
                 position: absolute;
                 top: 600px;
@@ -127,7 +127,7 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 0px;
-                width: 719px;
+                width: 100%;
                 height: 50px;
                 position: absolute;
                 top: 610px;
