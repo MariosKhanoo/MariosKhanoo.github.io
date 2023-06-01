@@ -1,4 +1,4 @@
- #title {
+            #title {
                 text-align: center;
                 background: rgb(63, 69, 69);
                 border: 2px solid black;
@@ -38,11 +38,11 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 20px;
-                width: 150px;
-                height: 157px;
+                width: 300px;
+                height: 314px;
                 position: absolute;
                 top: 390px;
-                left: 60px;
+                left: 1200px;
             }
             #Our-School {
                 font-size: 30px;
@@ -51,10 +51,10 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 25px;
-                width: 150px;
+                width: 300px;
                 position: absolute;
                 top: 390px;
-                left: 250px;
+                left: 500px;
             }
             #clubs-and-sports {
                 font-size: 28px;
@@ -63,10 +63,10 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 40px;
-                width: 130px;
+                width: 260px;
                 position: absolute;
                 top: 390px;
-                left: 452px;
+                left: 904px;
             }
             #team-history {
                 font-size: 30px;
@@ -75,11 +75,11 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 20px;
-                width: 148px;
-                height: 127px;
+                width: 396px;
+                height: 254px;
                 position: absolute;
                 top: 390px;
-                left: 60px;
+                left: 120px;
             }
             #sign-up {
                 font-size: 30px;
@@ -88,11 +88,11 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 25px;
-                width: 150px;
-                height: 90px;
+                width: 600px;
+                height: 360px;
                 position: absolute;
                 top: 390px;
-                left: 250px;
+                left: 500px;
             }
             #admin {
                 font-size: 28px;
@@ -101,11 +101,11 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 40px;
-                width: 130px;
-                height: 87px;
+                width: 260px;
+                height: 174px;
                 position: absolute;
                 top: 390px;
-                left: 452px;
+                left: 904px;
             }
             #last-lightblue-box {
                 font-size: 20px;
@@ -117,7 +117,7 @@
                 width: 100%;
                 height: 50px;
                 position: absolute;
-                top: 600px;
+                top: 999px;
                 left: 0px;
             }
             #final-lightblue-box {
@@ -130,7 +130,7 @@
                 width: 100%;
                 height: 50px;
                 position: absolute;
-                top: 610px;
+                top: 999px;
                 left: 0px;
             }
     
