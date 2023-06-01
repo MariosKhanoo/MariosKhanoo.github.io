@@ -26,7 +26,7 @@
             }
             #image {
                 position: absolute;
-                width: 100%;
+                width: 999px;
                 top: 125px;
                 left: 1.5px;
                 z-index: -1;
@@ -42,7 +42,7 @@
                 height: 314px;
                 position: absolute;
                 top: 390px;
-                left: 1200px;
+                left: 120px;
             }
             #Our-School {
                 font-size: 30px;
@@ -92,7 +92,7 @@
                 height: 360px;
                 position: absolute;
                 top: 390px;
-                left: 500px;
+                left: 400px;
             }
             #admin {
                 font-size: 28px;
