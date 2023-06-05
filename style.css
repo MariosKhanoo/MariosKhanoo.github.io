@@ -26,7 +26,8 @@
             }
             #image {
                 position: absolute;
-                width: 999px;
+                width: 100%;
+                height: 400px;
                 top: 125px;
                 left: 1.5px;
                 z-index: -1;
@@ -120,17 +121,3 @@
                 top: 750px;
                 left: 0px;
             }
-            #final-lightblue-box {
-                font-size: 20px;
-                text-align: center;
-                background: lightblue;
-                border: 2px solid black;
-                font-family: cursive;
-                padding: 0px;
-                width: 100%;
-                height: 50px;
-                position: absolute;
-                top: 750px;
-                left: 0px;
-            }
-    
