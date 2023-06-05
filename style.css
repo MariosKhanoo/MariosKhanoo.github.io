@@ -39,7 +39,7 @@
                 font-family: cursive;
                 padding: 20px;
                 width: 300px;
-                height: 314px;
+                height: 225px;
                 position: absolute;
                 top: 390px;
                 left: 120px;
@@ -52,6 +52,7 @@
                 font-family: cursive;
                 padding: 25px;
                 width: 300px;
+                height: 225px;
                 position: absolute;
                 top: 390px;
                 left: 500px;
@@ -75,8 +76,8 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 20px;
-                width: 396px;
-                height: 254px;
+                width: 300px;
+                height: 225px;
                 position: absolute;
                 top: 390px;
                 left: 120px;
@@ -88,11 +89,11 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 25px;
-                width: 600px;
-                height: 360px;
+                width: 300px;
+                height: 225px;
                 position: absolute;
                 top: 390px;
-                left: 400px;
+                left: 500px;
             }
             #admin {
                 font-size: 28px;
@@ -101,8 +102,7 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 40px;
-                width: 260px;
-                height: 174px;
+                width: 200px;
                 position: absolute;
                 top: 390px;
                 left: 904px;
