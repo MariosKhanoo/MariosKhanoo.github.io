@@ -26,8 +26,6 @@
             }
             #image {
                 position: absolute;
-                width: 100%;
-                height: 400px;
                 top: 125px;
                 left: 1.5px;
                 z-index: -1;
