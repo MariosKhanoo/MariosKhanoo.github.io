@@ -25,6 +25,7 @@
                 background-color: gray;
             }
             #image {
+                justify-content: center;
                 position: absolute;
                 top: 125px;
                 left: 1.5px;
