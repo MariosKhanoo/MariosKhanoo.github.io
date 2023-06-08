@@ -52,16 +52,16 @@
                 padding: 20px;
                 float: left;
             }
-            #container-#2 {
+            #container-page2 {
                 display: flex;
                 justify-content: center;
                 align-items: flex-start;
                 margin-top: -150px;
             }
-            #three-boxes-#2 {
+            #three-boxes-page2 {
                 width: 25%;
             }
-            #three-boxes-#2 {
+            #three-boxes-page2 {
                 width: 200px;
                 height: 250px;
                 font-size: 30px;
