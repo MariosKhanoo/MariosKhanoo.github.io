@@ -27,11 +27,11 @@
             #image {
                 display: flex;
                 justify-content: center;
-                position: absolute;
-                top: 125px;
+                align-items: flex-start;
+                margin-top: 125px;
                 z-index: -1;
             }
-            #three-boxes {
+            #container {
                 display: flex;
                 justify-content: center;
                 align-items: flex-start;
@@ -40,31 +40,15 @@
             #admission, #favorite-department, #clubs-and-sports {
                 width: 25%;
             }
-            #admission {
+            #three-boxes {
+                width: 200px;
+                height: 300px;
                 font-size: 30px;
                 text-align: center;
                 background: white;
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 20px;
-                float: left;
-            }
-            #favorite-department {
-                font-size: 30px;
-                text-align: center;
-                background: white;
-                border: 2px solid black;
-                font-family: cursive;
-                padding: 25px;
-                float: left;
-            }
-            #clubs-and-sports {
-                font-size: 28px;
-                text-align: center;
-                background: white;
-                border: 2px solid black;
-                font-family: cursive;
-                padding: 40px;
                 float: left;
             }
             #team-history {
