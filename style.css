@@ -7,9 +7,8 @@
                 padding: 0px;
                 width: 100%;
                 position: absolute;
-                top: 0px;
+                top: -20px;
                 left: 0px;
-                z-index: 1;
             }
             #school-name {
                 font-size: 10px;
@@ -37,7 +36,7 @@
                 display: flex;
                 justify-content: center;
                 align-items: flex-start;
-                margin-top: 50px;
+                margin-top: 0px;
             }
             #three-boxes {
                 width: 25%;
