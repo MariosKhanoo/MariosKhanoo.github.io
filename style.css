@@ -34,7 +34,8 @@
             #three-boxes {
                 display: flex;
                 justify-content: center;
-                top: 390px;
+                align-items: flex-start;
+                margin-top: 390px;
             }
             #admission, #favorite-department, #clubs-and-sports {
                 width: 25%;
