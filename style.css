@@ -1,9 +1,10 @@
             #title {
+                font-size: 25px;
                 text-align: center;
                 background: rgb(63, 69, 69);
                 border: 2px solid black;
                 font-family: cursive;
-                padding: 5px;
+                padding: 0px;
                 width: 100%;
                 position: absolute;
                 top: 0px;
@@ -35,14 +36,14 @@
                 display: flex;
                 justify-content: center;
                 align-items: flex-start;
-                margin-top: 250px;
+                margin-top: 200px;
             }
             #three-boxes {
                 width: 25%;
             }
             #three-boxes {
                 width: 200px;
-                height: 300px;
+                height: 250px;
                 font-size: 30px;
                 text-align: center;
                 background: white;
