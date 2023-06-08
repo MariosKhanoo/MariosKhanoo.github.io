@@ -36,7 +36,7 @@
                 display: flex;
                 justify-content: center;
                 align-items: flex-start;
-                margin-top: -100px;
+                margin-top: -135px;
             }
             #three-boxes {
                 width: 25%;
@@ -52,43 +52,25 @@
                 padding: 20px;
                 float: left;
             }
-            #team-history {
+            #container-#2 {
+                display: flex;
+                justify-content: center;
+                align-items: flex-start;
+                margin-top: -135px;
+            }
+            #three-boxes-#2 {
+                width: 25%;
+            }
+            #three-boxes-#2 {
+                width: 200px;
+                height: 250px;
                 font-size: 30px;
                 text-align: center;
                 background: white;
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 20px;
-                width: 300px;
-                height: 225px;
-                position: absolute;
-                top: 390px;
-                left: 120px;
-            }
-            #sign-up {
-                font-size: 30px;
-                text-align: center;
-                background: white;
-                border: 2px solid black;
-                font-family: cursive;
-                padding: 25px;
-                width: 300px;
-                height: 225px;
-                position: absolute;
-                top: 390px;
-                left: 500px;
-            }
-            #admin {
-                font-size: 28px;
-                text-align: center;
-                background: white;
-                border: 2px solid black;
-                font-family: cursive;
-                padding: 40px;
-                width: 200px;
-                position: absolute;
-                top: 390px;
-                left: 904px;
+                float: left;
             }
             #last-lightblue-box {
                 font-size: 20px;
