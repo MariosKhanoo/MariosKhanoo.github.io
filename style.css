@@ -52,12 +52,13 @@
                 width: 300px;
                 height: 225px;
                 position: absolute;
-                text-align: center;
                 top: 390px;
+                left: 50%;
+                transform: translateX(-50%);
             }
             #clubs-and-sports {
                 font-size: 28px;
-                text-align: text-align=center+200px;
+                text-align: center;
                 background: white;
                 border: 2px solid black;
                 font-family: cursive;
@@ -65,6 +66,7 @@
                 width: 200px;
                 position: absolute;
                 top: 390px;
+                left: 904px;
             }
             #team-history {
                 font-size: 30px;
