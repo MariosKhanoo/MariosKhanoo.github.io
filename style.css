@@ -30,6 +30,12 @@
                 left: 1.5px;
                 z-index: -1;
             }
+            #three-boxes {
+                display: flex;
+                justify-content: center;
+            }
+            #admission, #favorite-department, #clubs-and-sports {
+                width: 25%;
             #admission {
                 font-size: 30px;
                 text-align: center;
@@ -37,11 +43,8 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 20px;
-                width: 300px;
-                height: 225px;
-                position: absolute;
+                float: left;
                 top: 390px;
-                left: 120px;
             }
             #favorite-department {
                 font-size: 30px;
@@ -50,11 +53,8 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 25px;
-                width: 300px;
-                height: 225px;
-                position: absolute;
+                float: left;
                 top: 390px;
-                left: 500px;
             }
             #clubs-and-sports {
                 font-size: 28px;
@@ -63,10 +63,8 @@
                 border: 2px solid black;
                 font-family: cursive;
                 padding: 40px;
-                width: 200px;
-                position: absolute;
+                float: left;
                 top: 390px;
-                left: 904px;
             }
             #team-history {
                 font-size: 30px;
