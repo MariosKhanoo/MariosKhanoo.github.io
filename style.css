@@ -9,7 +9,7 @@
                 position: absolute;
                 top: 0px;
                 left: 0px;
-                z-index: -1;
+                z-index: 1;
             }
             #school-name {
                 font-size: 10px;
@@ -37,7 +37,7 @@
                 display: flex;
                 justify-content: center;
                 align-items: flex-start;
-                margin-top: 150px;
+                margin-top: 50px;
             }
             #three-boxes {
                 width: 25%;
