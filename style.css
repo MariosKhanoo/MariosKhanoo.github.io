@@ -85,45 +85,44 @@
                 top: 750px;
                 left: 0px;
             }
-            #images-container {
-                display: flex;
-                justify-content: center;
+        #images-container {
+            display: flex;
+            justify-content: center;
             }
-            #three-image {
-                width: 27%;
+        #three-image {
+            width: 25%;
             }
-            #three-image {
-                height: 200px;
-                content-align: center;
-                border: 2px solid black;
-                font-family: cursive;
-                padding: 20px;
-                float: left;
+        #three-image {
+            height: 200px;
+            content-align: center;
+            border: 2px solid black;
+            font-family: cursive;
+            float: left;
             }
-            #official-info {
-                background: lightgray;
-                overflow-y: auto;
-                overflow-x: hidden;
-                border: 2px solid black;
-                padding: 10px;
+        #official-info {
+            background: lightgray;
+            overflow-y: auto;
+            overflow-x: hidden;
+            border: 2px solid black;
+            padding: 10px;
             }
-            #teachers-images {
-                width: 120px;
-                margin-right: 10px;
-                margin-bottom: 10px;
+        #teachers-images {
+            width: 120px;
+            margin-right: 10px;
+            margin-bottom: 10px;
             }
-            #container-page3 {
-                width: 75%;
-                margin: auto;
-                padding: 20px;
-                position: absolute;
-                height: 00px;
-                left: -21px;
-                top: 115px;
-                z-index: -1;
+        #container {
+            width: 75%;
+            margin: auto;
+            padding: 20px;
+            position: absolute;
+            height: 00px;
+            left: -21px;
+            top: 115px;
+            z-index: -1;
             }
-            .text {
-                font-size: 17px;
-                text-align: center;
-                font-family: cursive;
-            }
+        .text {
+            font-size: 17px;
+            text-align: center;
+            font-family: cursive;
+        }
