@@ -102,6 +102,8 @@
             }
         #official-info {
             background: lightgray;
+            border: 2px solid black;
+            padding: 10px;
             }
         #teachers-images {
             margin-right: 10px;
