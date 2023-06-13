@@ -90,11 +90,11 @@
             justify-content: center;
             }
         #three-image {
-            width: 25%
+            width: 25%;
             }
         #three-image {
-            height: 50%
-            width: 50%
+            height: 100%;
+            width: 100%;
             content-align: center;
             border: 2px solid black;
             font-family: cursive;
@@ -110,7 +110,7 @@
             margin-bottom: 10px;
             }
         #container-page3 {
-            width: 75%
+            width: 75%;
             margin: auto;
             padding: 20px;
             position: absolute;
