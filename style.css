@@ -102,10 +102,6 @@
             }
         #official-info {
             background: lightgray;
-            overflow-y: auto;
-            overflow-x: hidden;
-            border: 2px solid black;
-            padding: 10px;
             }
         #teachers-images {
             margin-right: 10px;
