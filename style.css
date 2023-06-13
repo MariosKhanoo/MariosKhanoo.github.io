@@ -90,10 +90,11 @@
             justify-content: center;
             }
         #three-image {
-            width: 33%;
+            width: 25%
             }
         #three-image {
-            height: 200px;
+            height: 100%
+            width: 100%
             content-align: center;
             border: 2px solid black;
             font-family: cursive;
@@ -107,12 +108,11 @@
             padding: 10px;
             }
         #teachers-images {
-            width: 120px;
             margin-right: 10px;
             margin-bottom: 10px;
             }
         #container-page3 {
-            width: 80%;
+            width: 75%
             margin: auto;
             padding: 20px;
             position: absolute;
