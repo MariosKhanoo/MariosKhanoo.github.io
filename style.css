@@ -90,15 +90,15 @@
             justify-content: center;
             }
         #three-image {
-            width: 25%;
+            width: 33.33%;
             }
         #three-image {
-            height: 25%;
-            width: 25%;
+            height: 33.33%;
+            width: 33.33%;
             content-align: center;
             border: 2px solid black;
             font-family: cursive;
-            float: left;
+            float: left
             }
         #official-info {
             background: lightgray;
