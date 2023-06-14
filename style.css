@@ -89,17 +89,16 @@
             display: flex;
             justify-content: center;
             }
-        #three-image {
-            width: 33.33%;
-            }
-        #three-image {
-            height: 33.33%;
-            width: 33.33%;
-            content-align: center;
-            border: 2px solid black;
-            font-family: cursive;
-            float: left;
-            }
+    .three-image {
+        display: inline-block;
+        text-align: center;
+        border: 2px solid black;
+        font-family: cursive;
+    }
+    .three-image img {
+        max-width: 100%; 
+        height: auto; 
+    }
         #official-info {
             background: lightgray;
             border: 2px solid black;
