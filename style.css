@@ -85,4 +85,42 @@
                 top: 750px;
                 left: 0px;
             }
-#images-container { display: flex; justify-content: center; } .three-image { width: 33.33%; height: 33.33%; text-align: center; border: 2px solid black; font-family: cursive; float: left; } #official-info { background: lightgray; border: 2px solid black; padding: 10px; } #teachers-images { margin-right: 10px; margin-bottom: 10px; } #container-page3 { width: 75%; margin: auto; padding: 20px; position: absolute; height: 300px; left: -21px; top: 115px; z-index: -1; } .text { font-size: 17px; text-align: center; font-family: cursive; }
+        #images-container {
+            display: flex;
+            justify-content: center;
+            }
+        #three-image {
+            width: 33.33%;
+            }
+        #three-image {
+            height: 33.33%;
+            width: 33.33%;
+            content-align: center;
+            border: 2px solid black;
+            font-family: cursive;
+            float: left
+            }
+        #official-info {
+            background: lightgray;
+            border: 2px solid black;
+            padding: 10px;
+            }
+        #teachers-images {
+            margin-right: 10px;
+            margin-bottom: 10px;
+            }
+        #container-page3 {
+            width: 75%;
+            margin: auto;
+            padding: 20px;
+            position: absolute;
+            height: 300px;
+            left: -21px;
+            top: 115px;
+            z-index: -1;
+            }
+        .text {
+            font-size: 17px;
+            text-align: center;
+            font-family: cursive;
+        }
