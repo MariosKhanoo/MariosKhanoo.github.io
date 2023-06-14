@@ -98,7 +98,7 @@
             content-align: center;
             border: 2px solid black;
             font-family: cursive;
-            float: left
+            float: left;
             }
         #official-info {
             background: lightgray;
@@ -108,6 +108,7 @@
         #teachers-images {
             margin-right: 10px;
             margin-bottom: 10px;
+            border: 2px solid black;
             }
         #container-page3 {
             width: 75%;
