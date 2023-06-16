@@ -82,12 +82,12 @@
                 text-align: center;
                 border: 2px solid black;
                 font-family: cursive;
-                width: 30%;
+                width: 20%;
                 margin: 5px;
                 box-sizing: border-box;
             }
             .three-image img {
-                max-width: 100%; 
+                max-width: 75%; 
                 height: auto; 
             }
             #official-info {
