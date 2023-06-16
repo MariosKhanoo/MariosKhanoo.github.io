@@ -75,12 +75,16 @@
             #images-container {
                 display: flex;
                 justify-content: center;
+                flex-wrap: wrap;
             }
             .three-image {
                 display: inline-block;
                 text-align: center;
                 border: 2px solid black;
                 font-family: cursive;
+                width: 30%;
+                margin: 5px;
+                box-sizing: border-box;
             }
             .three-image img {
                 max-width: 100%; 
