@@ -80,6 +80,7 @@
             .three-image {
                 display: inline-block;
                 text-align: center;
+                content-align: center;
                 border: 2px solid black;
                 font-family: cursive;
                 width: 30%;
@@ -96,11 +97,6 @@
                 background: lightgray;
                 border: 2px solid black;
                 padding: 10px;
-            }
-            #teachers-images {
-                margin-right: 10px;
-                margin-bottom: 10px;
-                border: 2px solid black;
             }
             #container-page3 {
                 width: 100%;
