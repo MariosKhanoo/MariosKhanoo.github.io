@@ -85,6 +85,7 @@
                 width: 20%;
                 margin: 5px;
                 box-sizing: border-box;
+                height: 200px;
             }
             .three-image img {
                 max-width: 75%; 
