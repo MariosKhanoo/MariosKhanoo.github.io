@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mentorship and Leadership | Imaginary School of Toronto</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="School Logo">
+        <h1>Imaginary School of Toronto</h1>
+    </header>
+    <div class="menu">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Academics</a></li>
+            <li><a href="#">Extracurriculars</a></li>
+            <li><a href="#">Mentorship & Leadership</a></li>
+            <li><a href="previous_page.html">Go Back</a></li>
+        </ul>
+    </div>
+    <div class="content">
+        <h2>Mentorship and Leadership Opportunities</h2>
+        <p>At the Imaginary School of Toronto, we value mentorship and leadership as essential components of a well-rounded education. We provide numerous opportunities for students to develop their leadership skills and benefit from mentorship programs.</p>
+        <img src="mentorship.jpg" alt="Mentorship Image">
+        <p>Our mentorship programs connect students with experienced professionals and role models who guide them in their personal and academic growth. Through one-on-one mentoring sessions, students receive valuable insights, support, and advice to help them navigate their educational journey.</p>
+        <img src="leadership.jpg" alt="Leadership Image">
+        <p>In addition, we offer various leadership initiatives, including student council, clubs, and community service projects. These activities empower students to take on leadership roles, develop their teamwork and communication skills, and make a positive impact within the school and the broader community.</p>
+    </div>
+    <footer>
+        <div class="footer-container">
+            <div class="contact-info">
+                <h3>Contact Us</h3>
+                <p>123 School Street, Toronto, ON</p>
+                <p>Phone: (123) 456-7890</p>
+                <p>Email: info@imaginaryschooltoronto.com</p>
+            </div>
+            <div class="social-media">
+                <h3>Follow Us</h3>
+                <a href="#"><img src="facebook.png" alt="Facebook"></a>
+                <a href="#"><img src="twitter.png" alt="Twitter"></a>
+                <a href="#"><img src="instagram.png" alt="Instagram"></a>
+            </div>
+        </div>
+        <p class="copyright">&copy; 2023 Imaginary School of Toronto. All rights reserved.</p>
+    </footer>
+</body>
+</html>
