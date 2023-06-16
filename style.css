@@ -72,66 +72,66 @@
                 padding: 20px;
                 float: left;
             }
-        #images-container {
-            display: flex;
-            justify-content: center;
+            #images-container {
+                display: flex;
+                justify-content: center;
             }
-    .three-image {
-        display: inline-block;
-        text-align: center;
-        border: 2px solid black;
-        font-family: cursive;
-    }
-    .three-image img {
-        max-width: 100%; 
-        height: auto; 
-    }
-        #official-info {
-            background: lightgray;
-            border: 2px solid black;
-            padding: 10px;
+            .three-image {
+                display: inline-block;
+                text-align: center;
+                border: 2px solid black;
+                font-family: cursive;
             }
-        #teachers-images {
-            margin-right: 10px;
-            margin-bottom: 10px;
-            border: 2px solid black;
+            .three-image img {
+                max-width: 100%; 
+                height: auto; 
             }
-        #container-page3 {
-            width: 75%;
-            margin: auto;
-            padding: 20px;
-            position: absolute;
-            height: 300px;
-            left: -21px;
-            top: 115px;
-            z-index: -1;
+            #official-info {
+                background: lightgray;
+                border: 2px solid black;
+                padding: 10px;
             }
-        .text {
-            font-size: 17px;
-            text-align: center;
-            font-family: cursive;
-        }
-        #mentorship-body {
-            font-family: Arial, sans-serif;
-            margin-top: 125px;
-            padding: 2px;
-        }
-        .container {
-            max-width: 100%;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        footer {
-            background-color: rgb(173, 216, 230);
-            padding: 20px;
-        }
-        .footer-container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .social-media img {
-            width: 30px;
-            height: 30px;
-            margin-right: 10px;
-        }
+            #teachers-images {
+                margin-right: 10px;
+                margin-bottom: 10px;
+                border: 2px solid black;
+            }
+            #container-page3 {
+                width: 100%;
+                margin: auto;
+                padding: 20px;
+                position: absolute;
+                height: 300px;
+                left: -21px;
+                top: 115px;
+                z-index: -1;
+            }
+            .text {
+                font-size: 17px;
+                text-align: center;
+                font-family: cursive;
+            }
+            #mentorship-body {
+                font-family: Arial, sans-serif;
+                margin-top: 125px;
+                padding: 2px;
+            }
+            .container {
+                max-width: 100%;
+                margin: 0 auto;
+                padding: 20px;
+            }
+            footer {
+                background-color: rgb(173, 216, 230);
+                padding: 20px;
+            }
+            .footer-container {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+            .social-media img {
+                width: 30px;
+                height: 30px;
+                margin-right: 10px;
+            }
